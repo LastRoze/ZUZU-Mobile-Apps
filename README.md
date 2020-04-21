@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/maintenance/yes/2020.svg" /></a>
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps/graphs/contributors" alt="Contributor List">
 		<img src="https://img.shields.io/github/contributors/LastRoze/ZUZU-Mobile-Apps.svg" /></a>
-	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps" alt="We Love Open Source">			<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
+	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps" alt="We Love Open Source"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
 </p>
 
 ![screenshot](https://files.slack.com/files-pri/T1LEN4EM7-F0125UGR29K/hms_mobile_app.png)
