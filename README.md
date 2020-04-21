@@ -7,7 +7,7 @@
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps/releases" alt="Total Download">
 		<img src="https://img.shields.io/github/downloads/Ashesh3/RosMultiHackv99/total.svg" /></a>
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps/tree/master" alt="This Project is Maintained">
-		<img src="https://img.shields.io/maintenance/no/2018.svg" /></a>
+		<img src="https://img.shields.io/maintenance/yes/2020.svg" /></a>
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps/graphs/contributors" alt="Contributor List">
 		<img src="https://img.shields.io/github/contributors/Ashesh3/RosMultiHackv99.svg" /></a>
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps" alt="We Love Open Source">			<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
