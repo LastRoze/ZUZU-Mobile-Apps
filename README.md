@@ -13,7 +13,7 @@
 	<a href="https://github.com/LastRoze/ZUZU-Mobile-Apps" alt="We Love Open Source"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
 </p>
 
-![screenshot](https://files.slack.com/files-pri/T1LEN4EM7-F0125UGR29K/hms_mobile_app.png)
+![screenshot](https://i.imgur.com/wBb4DOY.png)
 
 ## Features
 
@@ -36,6 +36,6 @@ You will need know the basic about how to compile a program using Visual Studio 
 * Dart Lang
 
 ## Showcase:
-![alt text](https://files.slack.com/files-pri/T1LEN4EM7-F012L05G2SD/annotation_2020-04-21_141842.png "Screenshot")
-![alt text](https://files.slack.com/files-pri/T1LEN4EM7-F012DG3UJ04/annotation_2020-04-21_141745.png "Screenshot")
-![alt text](https://files.slack.com/files-pri/T1LEN4EM7-F0127B5DN6N/annotation_2020-04-21_141805.png "Screenshot")
+![alt text](https://i.imgur.com/3jzzWE6.png "Screenshot")
+![alt text](https://i.imgur.com/4RXxdD8.png "Screenshot")
+![alt text](https://i.imgur.com/NlUYFpX.png "Screenshot")
